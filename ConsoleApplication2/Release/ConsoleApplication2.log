@@ -1,7 +1,6 @@
-﻿  ConsoleApplication2.cpp
-  Generating code
+﻿  Generating code
   1 of 13 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    3 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   ConsoleApplication2.vcxproj -> C:\Users\gta76\source\repos\ConsoleApplication2\Release\ConsoleApplication2.exe
